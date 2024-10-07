@@ -94,7 +94,7 @@
     font-size: 3em;
 }
 .banner .content .model:hover{
-    /* scale: 1.1; */
+    scale: 1.1;
     transition-duration: 1s;
     animation: slidebot 2s ease forwards;
 
